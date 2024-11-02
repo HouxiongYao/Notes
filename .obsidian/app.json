@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "Blog/source/images",
+  "userIgnoreFilters": [
+    "Blog/node_modules/",
+    "Blog/themes/",
+    "Blog/public/",
+    "Blog/scaffolds/"
+  ]
+}
