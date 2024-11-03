@@ -5,5 +5,7 @@
     "Blog/themes/",
     "Blog/public/",
     "Blog/scaffolds/"
-  ]
+  ],
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest"
 }
