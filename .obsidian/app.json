@@ -7,5 +7,6 @@
     "Blog/scaffolds/"
   ],
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "strictLineBreaks": true
 }

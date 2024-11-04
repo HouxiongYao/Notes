@@ -2,6 +2,7 @@
 title: "{{title}}"
 date: "{{date}}"
 categories: 
-tags:
+tags: 
+mathjax: "true"
 ---
 <!--more-->

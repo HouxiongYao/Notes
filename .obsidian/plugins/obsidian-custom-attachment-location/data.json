@@ -10,7 +10,7 @@
   "keepEmptyAttachmentFolders": false,
   "pastedFileName": "image-${date:YYYYMMDD-HHmmss}",
   "renameCollectedFiles": false,
-  "renameOnlyImages": true,
+  "renameOnlyImages": false,
   "renamePastedFilesWithKnownNames": false,
   "renameAttachmentsOnDragAndDrop": false,
   "replaceWhitespace": false,
