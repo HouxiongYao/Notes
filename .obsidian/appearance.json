@@ -1,1 +1,7 @@
-{}
+{
+  "monospaceFontFamily": "DejaVu Sans Mono",
+  "textFontFamily": "Times New Roman",
+  "cssTheme": "Atom",
+  "theme": "moonstone",
+  "baseFontSize": 20
+}
