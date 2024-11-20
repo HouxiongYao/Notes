@@ -1,0 +1,3 @@
+
+> [!NOTE] Best practice
+> Contents

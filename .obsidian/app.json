@@ -9,5 +9,7 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "shortest",
   "strictLineBreaks": true,
-  "vimMode": false
+  "vimMode": true,
+  "spellcheck": false,
+  "autoConvertHtml": true
 }
